@@ -282,7 +282,9 @@
 				TargetAttributes = {
 					AE499DCB1C82BB2B002D68AF = {
 						CreatedOnToolsVersion = 7.2;
+						DevelopmentTeam = JP548GHE53;
 						LastSwiftMigration = 0820;
+						ProvisioningStyle = Automatic;
 					};
 					AE499DDA1C82BB2B002D68AF = {
 						CreatedOnToolsVersion = 7.2;
@@ -501,7 +503,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "Mac Developer";
 				COMBINE_HIDPI_IMAGES = YES;
+				DEVELOPMENT_TEAM = JP548GHE53;
 				INFOPLIST_FILE = XiEditor/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.levien.XiEditor;
@@ -514,7 +518,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "Mac Developer";
 				COMBINE_HIDPI_IMAGES = YES;
+				DEVELOPMENT_TEAM = JP548GHE53;
 				INFOPLIST_FILE = XiEditor/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.levien.XiEditor;
